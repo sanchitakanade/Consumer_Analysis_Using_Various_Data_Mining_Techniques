@@ -1,0 +1,2 @@
+# Consumer_Analysis_Using_Various_Data_Mining_Techniques
+ Data Mining Project using Python
